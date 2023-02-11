@@ -16,7 +16,5 @@
   srcset="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<div    
-https://github-readme-stats.vercel.app/api/wakatime?username=LinuxMystery00
-https://github.com/LinuxMystery00/github-readme-stats
->
+    <img heigh="530" width="540 src=
+https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight>
