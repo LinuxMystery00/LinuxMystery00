@@ -17,5 +17,5 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
     
-<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" /> 
+<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LinuxMystery00" alt="LinuxMystery00's most languages"/> 
 
