@@ -16,5 +16,6 @@
   srcset="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_icons=true" />
+    
+<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" /> 
 
