@@ -19,4 +19,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_icons=true" />
 </picture>
   
-(https://github.com/anuraghazra/github-readme-stats)
+[!LinuxMystery00 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LinuxMystery00)](https://github.com/LinuxMystery00/github-readme-stats)
