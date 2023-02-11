@@ -16,5 +16,3 @@
   srcset="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-    <img heigh="530" width="540 src=
-https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight>
