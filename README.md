@@ -19,5 +19,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_icons=true" />
 </picture>
  
-api/top-langs?username=anuraghazra
- 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
