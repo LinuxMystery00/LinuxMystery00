@@ -17,4 +17,4 @@ srcset="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&text_color=fff&bg_color=258&title_color=000))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&text_color=fff&bg_color=000&title_color=000))
