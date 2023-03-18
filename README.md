@@ -10,8 +10,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  height="60" width="40" />
   <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" width="40" />
-   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" width="40" />
-  
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" width="40" />
 }
 
   <picture>
@@ -22,4 +21,9 @@
 <source
 srcset="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&show_icons=true"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        
 />  
+    
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMystery00&layout=compact&langs_count=16&theme=dark"/>
+</div>
