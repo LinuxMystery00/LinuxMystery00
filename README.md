@@ -18,3 +18,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMystery00&layout=compact&langs_count=16&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&theme=dark">
 </div>
+
+<div>
+  <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
+</div>
