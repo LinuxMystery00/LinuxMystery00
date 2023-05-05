@@ -22,9 +22,3 @@
 <div>
   <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
 </div>
-
-<div>
-  # Project's:
-  Bot Discord Isaac Dev:
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Portrait_of_Sir_Isaac_Newton%2C_1689.jpg" />
-</div>
