@@ -15,6 +15,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="60" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="40" />
 
  
 <div>
@@ -50,3 +51,4 @@
 <h2>Phisic's</h2>
 <img align="center" src="https://icon-library.com/images/albert-einstein-icon/albert-einstein-icon-9.jpg" height="60" width="60" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="60" width="60" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="40" />
