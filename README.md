@@ -28,7 +28,7 @@
   <img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" />
 </div>
 
-<h1>Studynd:</h1>
+<h1>Studying:</h1>
 <h2>Code</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
