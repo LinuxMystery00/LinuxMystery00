@@ -23,6 +23,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" width="40" />
  
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMystery00&layout=compact&langs_count=16&theme=dark"/>
@@ -58,6 +59,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" width="40" />
 <h2>Pentest</h2>
 <div style="display: inline_block"><br>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="40" />
