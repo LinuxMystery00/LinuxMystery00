@@ -28,6 +28,7 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxMystery00&layout=compact&langs_count=16&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&theme=dark">
+  <img alig="180" height="180em" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
 </div>
 
 <div>
