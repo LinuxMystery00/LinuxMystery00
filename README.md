@@ -65,5 +65,3 @@
 <div style="display: inline_block"><br>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="40" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="40" />
-<h2>Phisic's</h2>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="60" width="60" />
