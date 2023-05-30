@@ -51,7 +51,3 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="60" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" width="40" />
-<h2>Pentest</h2>
-<div style="display: inline_block"><br>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="40" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="60" width="40" />
