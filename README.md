@@ -1,4 +1,4 @@
-# EduardoSB FULLSTACK Developer :rocket: 
+# LinuxMystery00 FULLSTACK Developer :rocket: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,9 +27,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="60" width="40" />
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSB000&layout=compact&langs_count=16&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSB000&theme=dark">
-<img align="center" height="180em" src="https://streak-stats.demolab.com/?user=EduardoSB000&theme=dark"/>
-<img align="center" height="18em" src="https://komarev.com/ghpvc/?username=EduardoSB000&color=blueviolet">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinuxMystery00&theme=dark">
+<img align="center" height="180em" src="https://streak-stats.demolab.com/?user=LinuxMystery00&theme=dark"/>
+<img align="center" height="18em" src="https://komarev.com/ghpvc/?username=LinuxMystery00&color=blueviolet">
 </div>
 
 <div>
